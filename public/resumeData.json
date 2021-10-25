@@ -1,0 +1,117 @@
+{
+    "main": {
+        "name": "Nicholas Puente",
+        "description": "soon to be programer/web designer",
+        "image": "maxresdefault (1).jpg",
+        "bio": "I am a 13 year old almost 14, on my journey to learn computer science. I already have some exprience with python and java script.",
+        "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+        "email": "nicowpuente@gmail.com",
+        "phone": ".",
+        "github": "https://github.com/",
+        "project": "https://github.com/",
+        "address": {
+            "street": "(N/A)",
+            "city": "(N/A)",
+            "state": "(New York)"
+        },
+        "website": "https://github.com/",
+        "resumedownload": "https://github.com/",
+        "social": [
+            {
+                "name": "twitter",
+                "url": "http://twitter.com",
+                "className": "fa fa-twitter"
+            },
+            {
+                "name": "linkedin",
+                "url": "https://www.linkedin.com/",
+                "className": "fa fa-linkedin"
+            },
+            {
+                "name": "instagram",
+                "url": "http://instagram.com/",
+                "className": "fa fa-instagram"
+            },
+            {
+                "name": "github",
+                "url": "https://github.com/",
+                "className": "fa fa-github"
+            }
+        ]
+    },
+    "resume": {
+        "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+        "education": [
+            {
+                "school": "Middle School?",
+                "degree": "Saint Demetrios - I.S.126",
+                "graduated": "2021 June",
+                "description": "Going into a new culture was a great experience but just wasn't for me so I transitioned into another school for more advanced classes"
+            },
+            {
+                "school": "Saint Joseph",
+                "degree": " From Nursery to 5th Grade",
+                "graduated": "June 2020",
+                "description": "nothing much just elementary"
+            }
+        ],
+        "work": [
+            {
+                "company": "Coursera",
+                "title": "Python and Js",
+                "years": "2",
+                "description": "I do projects on Coursera and do them on my computer "
+            }
+        ],
+        "skills": [
+            {
+                "name": "Python",
+                "level": "30%"
+            },
+            {
+                "name": "VueJs",
+                "level": "1%"
+            },
+            {
+                "name": "ReactJs",
+                "level": "20%"
+            },
+            {
+                "name": "CSS",
+                "level": "10%"
+            },
+            {
+                "name": "JAVA",
+                "level": "8%"
+            }
+        ]
+    },
+    "portfolio": {
+        "projects": [
+            {
+                "title": "This Website",
+                "category": "Java Script",
+                "image": "download.png",
+                "url": "https://www.canadianwanderlust.com"
+            },
+            {
+                "title": "Hangman",
+                "category": "Python (Coursera Project)",
+                "image": "download(1).png",
+                "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+            },
+            {
+                "title": "N/A",
+                "category": "",
+                "image": "",
+                "url": "http://www.timbakerdev.com"
+            },
+            {
+                "title": "N/A",
+                "category": "",
+                "image": "",
+                "url": "http://www.smirkspace.com"
+            }
+        ]
+    }
+}
